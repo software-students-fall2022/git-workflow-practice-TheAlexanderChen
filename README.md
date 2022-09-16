@@ -7,3 +7,7 @@ With results like this in such a short timespan of release, it begs the question
 ## Comment by John Kolibachuk
 
 The results of the research was about what I would expect, with a large number of respondents expressing feeling more productive, faster, and less mentally drained, thanks to Copilot automating the writing of the repetitive stuff. But the idea of AI being capable of writing full software solutions doesn't seem too far fetched. If and or when this happens, I guess jobs will shift in the direction of specializing in creating, maintaining, and improving AI with respect to specific languages or disciplines.
+
+# Response
+
+Thanks for the comment, I agree that in the future perhaps it will just be about improving and researching AI rather than the current landscape.
